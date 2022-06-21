@@ -1,0 +1,6 @@
+{
+  "altErrorCode": "INVALID_REQUEST",
+  "code": "bad_request",
+  "message": "Bad cluster num",
+  "status": 400
+}
